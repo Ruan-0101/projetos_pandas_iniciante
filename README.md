@@ -1,29 +1,41 @@
- Projetos de Análise de Dados com Python (Pandas)
+# Projetos de Análise de Dados com Python
 
-Este repositório contém projetos práticos desenvolvidos com Python e Pandas, com foco em análise de dados.
+**Autor:** Ruan Gimenes
 
- Projetos
+## Objetivo
 
- Análise de Vendas
-- Cálculo de faturamento
-- Identificação do produto mais vendido
-- Agrupamento por categoria
+Desenvolver habilidades práticas em análise de dados utilizando Python, com foco em manipulação, tratamento e análise de informações com a biblioteca Pandas.
 
- Limpeza de Dados
-- Remoção de valores nulos
-- Tratamento de dados inconsistentes
+## Projetos
 
- Sistema de Notas
-- Cálculo de média dos alunos
-- Classificação (Aprovado/Reprovado)
+1. Análise de Vendas  
+   - Cálculo de faturamento total  
+   - Identificação do produto mais vendido  
+   - Agrupamento por categoria  
 
- Análise de Clientes
-- Segmentação por idade
-- Análise de média de compras
+2. Limpeza e Tratamento de Dados  
+   - Remoção de dados duplicados  
+   - Tratamento de valores nulos  
+   - Padronização de informações  
 
- Tecnologias utilizadas
-- Python
-- Pandas
+3. Sistema de Notas  
+   - Cálculo de média dos alunos  
+   - Classificação em aprovado ou reprovado  
+   - Identificação do melhor desempenho  
 
- Objetivo
-Desenvolver habilidades em análise de dados e iniciar na área de tecnologia.
+4. Análise de Clientes  
+   - Segmentação por faixa etária  
+   - Filtro de clientes maiores de idade  
+   - Análise de média de compras  
+
+## Tecnologias utilizadas
+
+- Python  
+- Pandas  
+
+## Estrutura do repositório
+
+1. Projeto de análise de vendas  
+2. Projeto de limpeza de dados  
+3. Projeto de notas  
+4. Projeto de clientes  
